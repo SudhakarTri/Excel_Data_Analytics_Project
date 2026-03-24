@@ -87,9 +87,9 @@ Link for the report - [P & L report Months_Wise](P%20%26%20L%20report%20Months_W
 ---
 
 ## 🚀 Key Takeaways
-Excel-Sales-Analytics is a data analytics project built in Microsoft Excel that delivers actionable insights through Sales and Finance reporting. It showcases advanced use of Power Query, Power Pivot, and DAX to transform raw datasets into interactive dashboards.
-- Sales Reports: Customer performance analysis, market vs. target comparisons, product/region insights, and forecasting.
-- Finance Reports: Profit & Loss (P&L) by fiscal year, months, and markets, variance analysis, expense tracking, and cash flow insights.
-- Technical Skills: ETL methodology, data modeling, calculated measures, dashboard design, automation.
-- Soft Skills: Business storytelling, user-centric design, KPI interpretation, and strategic communication.
+Excel-Sales-Analytics is a data analytics project built in Microsoft Excel that delivers actionable insights through **Sales and Finance reporting**. It showcases advanced use of **Power Query, Power Pivot, and DAX** to transform raw datasets into interactive dashboards.
+- Sales Reports: **Customer performance analysis, market vs. target comparisons, product/region insights, and forecasting**.
+- Finance Reports: **Profit & Loss (P&L) by fiscal year, months, and markets, variance analysis, expense tracking, and cash flow insights**.
+- Technical Skills: **ETL methodology, data modeling, calculated measures, dashboard design, automation**.
+- Soft Skills: **Business storytelling, user-centric design, KPI interpretation, and strategic communication**.
 

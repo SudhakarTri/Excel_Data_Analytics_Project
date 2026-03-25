@@ -9,7 +9,7 @@ This repository highlights both **Sales Analytics** and **Finance Analytics**, c
 
 ## 🔹 Sales Report
 
-Link for the report - [Customer Net Sales Performance](Customer%20Net%20Sales%20Performance.pdf) , [Customer Net Sales Performance India](Customer%20Net%20Sales%20Performance%20India.pdf) and [Market Performance vs Target](Market%20Performance%20vs%20Target.pdf)
+Check out the reports here - [Customer Net Sales Performance](Customer%20Net%20Sales%20Performance.pdf) , [Customer Net Sales Performance India](Customer%20Net%20Sales%20Performance%20India.pdf) and [Market Performance vs Target](Market%20Performance%20vs%20Target.pdf)
 
 ### **Objectives**
 - Build a **Customer Performance Report**   
@@ -35,7 +35,7 @@ Link for the report - [Customer Net Sales Performance](Customer%20Net%20Sales%20
 
 ## 🔹 Finance Report
 
-Link for the report - [P & L report Months_Wise](P%20%26%20L%20report%20Months_Wise.pdf) and [P & L report Year_Wise](P%20%26%20L%20report%20Year_Wise.pdf)
+Check out the reports here - [P & L report Months_Wise](P%20%26%20L%20report%20Months_Wise.pdf) and [P & L report Year_Wise](P%20%26%20L%20report%20Year_Wise.pdf)
 
 ### **Objectives**
 - Create **Profit & Loss (P&L) Reports** by Fiscal Year & Months  

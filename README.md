@@ -95,10 +95,9 @@ Excel-Sales-Analytics is a data analytics project built in Microsoft Excel that 
 
 ---
 
-📌 Disclaimer
-This dashboard is published for portfolio and demonstration purposes only.
-
-The dataset is publicly available on Kaggle/GitHub.
-Used strictly for educational and demonstration purposes to showcase analytics and visualization skills.
-No proprietary or confidential data is shared in this project.
+## 📌 Disclaimer
+- This dashboard is published for **portfolio and demonstration purposes only**.
+- The dataset is publicly available on Kaggle/GitHub.
+- Used strictly for educational and demonstration purposes to showcase analytics and visualization skills.-
+- No proprietary or confidential data is shared in this project.
 

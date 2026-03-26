@@ -93,3 +93,12 @@ Excel-Sales-Analytics is a data analytics project built in Microsoft Excel that 
 - Technical Skills: **ETL methodology, data modeling, calculated measures, dashboard design, automation**.
 - Soft Skills: **Business storytelling, user-centric design, KPI interpretation, and strategic communication**.
 
+---
+
+📌 Disclaimer
+This dashboard is published for portfolio and demonstration purposes only.
+
+The dataset is publicly available on Kaggle/GitHub.
+Used strictly for educational and demonstration purposes to showcase analytics and visualization skills.
+No proprietary or confidential data is shared in this project.
+
